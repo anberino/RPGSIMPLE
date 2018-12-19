@@ -1,4 +1,4 @@
-# simplerpg
+# Simple - A simple, intuitive and cinematic RPG metasystem
 An RPG system made to create other RPG systems. Made to be extremely simple, intuitive and easy to use, without having tons of modifiers and complicated die rolls.
 
 Based of ["JoJo's Bizarre Adventure - The RPG", by SB](https://is.gd/JoJoRPG).
