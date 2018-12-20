@@ -1,0 +1,22 @@
+Sample Simple Character Sheet
+
+The Simple RPG comes with its character sheet. It has all the fields needed by default for a Simple campaign. However, you may choose to create your own sheet, adding extra fields and information. These are the basic fields that are in the default sheet and ideally should be included the one you create, if you choose to do so.
+
+Player:
+Name:
+Level: - experience points could be noted here
+Traits Block (default 3 lines - things like race, class, etc go here)
+Physical Description:
+Personality:
+Background:
+
+Attributes Block (default 10 lines - things like strength, dexterity, charisma, etc go here)
+
+Abilities and Advantages: (should indicate each one separately when writing them down - things like fire magic, stealth, deception, etc go here)
+
+Injuries/Conditions:
+
+Equipment:
+Inventory:
+
+Extras Block (blank space)
