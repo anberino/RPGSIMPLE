@@ -126,8 +126,13 @@ Logically, if you should choose to have more than 5 attributes, you should also 
 | Attributes | Total Points |
 |------ | ------------ |
 |  5    |      6       |
-|  6    |      8       |
-|  7    |      9       |
+|  6    |      7       |
+|  7    |      8       |
+|  8    |      9       |
+|  9    |      10      |
+|  10   |      11      |
+
+In general, you want to have N+1 points for N attributes for a balanced experience. 
 
 If you are unfamiliar with RPGs and *Attributes*, there will be an example section showcasing different sets of *Attributes*, that can be used as templates for certain RPG worlds in Chapter 5. It's generally recommended to have a durability-related attribute for your characters, such as Endurance, Constitution, Health or other similar ones. This makes it easier to roll tests for Injuries and Conditions (see **Chapter 3.4 - Injuries and Conditions** for more information).
 
