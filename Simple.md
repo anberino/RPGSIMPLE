@@ -174,7 +174,7 @@ As for Ability levels, every Ability a player can have starts with a 1, but not 
 
 Advantages and Abilities are obtained with Experience Points (XP). Ideally, you should set a threshold cost for the strongest Advantage/Ability (AA) a character can have in the beginning of the adventure. If a player decides they want an AA that feels to overpowered, assign it a cost above said threshold and say that can only be obtained with the XP earned after leveling up. Each level of an AA may have a different cost assigned to it. XP can also be used to level up a certain AA, after the PC has already learned/adquired it. The cost for each level up should be defined by the GM.
 
-If these concepts are unclear to you, check out Chapter 5 for some examples.
+If these concepts are unclear to you, check out **Chapter 5** for some examples.
 
 ### 6) Growth and Experience
 
@@ -279,7 +279,32 @@ __Mounts:__ Mounts can also function normally with injuries. However, after they
 
 ## Chapter 5 - Examples
 
-> This section will contain examples of systems built with Simple.
+Since you can create an RPG in any world with Simple, this is a section dedicated to organizing Simple examples. Each example is in a separate file and will follow this organization pattern, to make it easier to understand - each of these files will be called a Booster Pack. They will be structured as follows:
+
+> Name of the Booster Pack: it can be the name of the world or something else based around it.
+
+> Name of the world/theme: if it's based on a certain fictional world, it should read, for example, "A Lord of the Rings based RPG" - else it can be simply "A medieval RPG" or "A ciberpunk RPG".
+
+> Name of the author/authors of the Booster Pack.
+
+> Tests: how many times someone has played with this Booster Pack.
+
+> Description: basic description of how the world works - who lives there, how society organizes itself, what kinds of quests will the characters enroll and so forth.
+
+> Attributes: what attributes the characters will have in this world, along with a description of which situations call for a test of these attributes.
+
+> Traits: what will the traits in this world be, assigning them to each trait slot on the character sheet. There should also be a list of options for each trait and the Advantages and Abilities bound to each trait.
+
+> Advantages and Abilities: AAs available to players and how each one of them works. Should also specify the way the AAs have been or should be created and assigned to characters (see **Chapter 6 - What to do?**) and informations such as starting XP if necessary.
+
+> Extra slots: if there will be anything extra needed in the character sheets for additional features (see **Chapter 3.8**).
+
+> GM section: any tips for the GM to be able to run a campaign in this world, reading recommendations, things GMs should tell their players and any additional mechanics the world may have in relation to the system (changes in Action Sequences, Vehicles and so forth).
+
+I will be adding new Booster Packs from time to time, based on worlds I felt like creating. If you used Simple and created your own Booster Packs, feel free to send them to me so that they can be added to the examples - and this way other people will be able to use them and provide feedback too. 
+
+An ideal endgoal would be to have a huge collection of different Simple-based systems so that everyone that wants to use Simple can quickstart an adventure in their world of choice. Even if there is already a Booster Pack for the world or theme you chose, you can also create your own anyways and submit it if you feel like it. I'm always accepting feedback, suggestions and add-ons - and will always credit those who help me in any way.
+
 
 ## Chapter 6 - What to do?
 
