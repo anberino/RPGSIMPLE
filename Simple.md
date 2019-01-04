@@ -65,7 +65,7 @@ __Injury Table__
 | Attcker roll - Defender roll | Injuries caused |
 | ---------------------------- | --------------- |
 | <= 0 | No injuries caused |
-| 1 ~ 8 | Minor injuries are caused |
+| 1 ~ 8 | Light injuries are caused |
 | 9 ~ 18 | Heavy injuries are caused |
 | >= 19 | Major injuries are caused |
 
