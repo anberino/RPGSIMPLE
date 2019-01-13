@@ -12,7 +12,7 @@ With every new idea for a new world and a new campaign, both me and one of my fr
 
 Some time later, after talking with some friends about a JoJo's RPG, I stumbled upon SB's system and I was astonished by how short and comprehensive it was. Everything just made sense and it felt pretty dynamic to play with. So, I decided I would adapt it for our next campaign towards a medieval setting and see how it could work out. At some point during that adaptation, I realized it would be a lot more simple if I could just have a system that is easy to adapt, instead of multiple easy to play systems that took a lot of time to create. From that, I decided to create a new, simple and adaptable system, that would serve as a framework for all my future campaigns with my playgroup.
 
-As such, Simple is at the same time completely generic (which is good) and extremely specific (which is not so good). It's completely generic because it is effectively, only a set of rules that you can shove anywhere. You can literally choose any fictional world for your RPG and use the Simple system and it will fit, one way or the other. However, it's extremely specific since it was built by *me* to cater *my* RPG needs. I just wanted something that I could choose a world, make some small decisions that don't require any kind of deep thought or balancing, create characters and start playing. If I suddenly felt like creating a new enemy type or special weapon during a campaign, I wouldn't have to check other guidebooks or worry if it was unbalanced, there would be very few numbers and calculations involved and I could make it happen on the spot. Making the system short also meant anyone from my playgroup could read it and GM every now and then, so if someone said "Oh, I really like Avatar: The Last Airbender's world" I could just awnser "Ok, you know it better, GM it" - and then if they had a story in mind, in one afternoon they could have everything they needed ready for the first session. 
+As such, Simple is at the same time completely generic (which is good) and extremely specific (which is not so good). It's completely generic because it is, effectively, only a set of rules that you can shove anywhere. You can literally choose any fictional world for your RPG and use the Simple system and it will fit, one way or the other. However, it's extremely specific since it was built by *me* to cater to *my* RPG needs. I just wanted something that I could choose a world, make some small decisions that don't require any kind of deep thought or balancing, create characters and start playing. If I suddenly felt like creating a new enemy type or special weapon during a campaign, I wouldn't have to check other guidebooks or worry if it was unbalanced, there would be very few numbers and calculations involved and I could make it happen on the spot. Making the system short also meant anyone from my playgroup could read it and GM every now and then, so if someone said "Oh, I really like Avatar: The Last Airbender's world" I could just awnser "Ok, you know it better, GM it" - and then if they had a story in mind, in one afternoon they could have everything they needed ready for the first session. 
 
 Since Simple worked out well in our first test session, I decided to make it public.
 
@@ -24,7 +24,9 @@ Simple **isn't recommended** to very experienced RPG players, unless they are si
 
 However, "recommended" is the keyword here - I can't actually stop you from using Simple. It's just that, if you come to me saying that your level 90 character is completely broken and I should rework something due to that, I won't actually care too much about it, because it's not the purpose of the system. Although, if you say that you couldn't find a way to adapt something into Simple or make a suggestion about something that could make the system more adaptable without complicating it too much, I would be on it immediately.
 
-If you have a lot of fun using this system, I would highly recommend following the link on Chapter 1 and donate to the person who made the JoJo's RPG, since I based a lot of Simple on their work and it's what inspired me to create this in the first place. Hope you have fun with Simple!
+If you have a lot of fun using this system, I would highly recommend following the link on Chapter 1 and donating to the person who made the JoJo's RPG, since I based a lot of Simple on their work and it's what inspired me to create this in the first place. 
+
+Hope you have fun with Simple!
 
 
 ## Chapter 1 - Introduction
@@ -122,7 +124,7 @@ A character's personality and physical description may be directly related to *A
 
 Whenever you create a character, you need to design the story behind them. The way your character lived his or her life before the start of the game session surely must have influenced them in some way that is impactful in the present. Your character's *Background* is basically his or her story, motivations, memories and dreams.
 
-Whenever a character is put into a history, they should have a reason to be there. It is important for the GM to define the world the Adventure will take place so that the players can develop interesting backstories related to it. A good GM considers their PCs' *Backgrounds* and builds upon them during the story.
+Whenever a character is put into a story, they should have a reason to be there. It is important for the GM to define the world the adventure will take place so that the players can develop interesting backstories related to it. A good GM considers their PCs' *Backgrounds* and builds upon them during the story.
 
 As stated before, a PC's *Background* may heavily influence their appearance, personality and *AAs*.
 
@@ -177,15 +179,15 @@ In Simple, there is no such thing as a number of "Hit Points" your character can
 
 *Note: Negative modifiers from different types of Injuries will stack. That means if your character has a Major Injury on their left arm and a Heavy Injury on their right arm, any action will receive -3 in the roll, but an action with the right arm will receive -6 instead (stacking the -3 from the HI and from the MI).*
 
-Some types of damage a character may suffer may cause them to attain or develop Conditions, which are effects that afflict a character for a certain period of time. These may cause injuries, limit a character's actions and movement or even transform a character temporarily. Examples of conditions that you may create are such as "Confused" (A confused character receives -3 on their next three rolls) or "Poisoned" (A poisoned character will receive an internal HI or LI every Turn), among others. 
+Some types of damage a character can suffer may cause them to attain or develop Conditions, which are effects that afflict a character for a certain period of time. These may cause injuries, limit a character's actions and movement or even transform a character temporarily. Examples of conditions that you may create are such as "Confused" (A confused character receives -3 on their next three rolls) or "Poisoned" (A poisoned character will receive an internal HI or LI every Turn), among others. 
 
-There is only one predefined conditions in Simple: *Fatally Wounded*. 
+There is only one predefined condition in Simple: *Fatally Wounded*. 
 
 A character will receive the *Fatally Wounded* condition if they see themselves with too many injuries or with a Major Injury in any body part. While *Fatally Wounded*, a character will need to roll a D20 of a durability-related attribute for every action they take or once per Turn, in the case they decide not to act during a Turn (if your characters do not have a durability-related attribute, this will be a single D20 roll that needs to be 11 or higher). Failing this test will result in an unrecoverable event. That could mean losing a limb, failure of an organ or death, among others. This is defined by the region that generated the condition - a MI in a vital body part (head, torso, etc) will generally cause death in case of failure, while one on a limb will cause the loss of said limb, and so forth.
 
 If a character dies during a campaign, there are two viable options. In the first one, the player must leave the campaign until it has ended (nothing stops the player from just coming to the sessions and chilling out in their corner, without playing the game or maybe assisting the GM with some things). In the second one, the player can wait until the end of the session without participating and create a new character and rejoin the campaign in the next session. In this case, it is recommended that the new character should have different abilities and behaviour from the previous one. Choosing how you will proceed in case of death is up to the GM and the players.
 
-### 5) Abilities and Advantages
+### 5) Abilities and Advantages (AAs)
 
 Aside from just being good with some skills or capable in some aspects, a character may have certain  *Advantages* when doing certain actions or certain *Abilities* that others don't have. These will influence your die rolls and what actions your character can take during a campaign.
 
@@ -195,11 +197,11 @@ An Ability is something that only characters with the said "Ability" can do. Hav
 
 As for Ability levels, every Ability a player can have starts with a 1, but not all of them can level up after that. For an example, we will look again at the "Flight" Ability. A GM may decide that the ability is simply the capability of flight and that every character in their world that has "Flight" as an Ability can do whatever action while flying. In that case, the Ability would be unable to level up. However, another GM may decide that flying is not so simple in their game world. Characters with "Flight 1" can only hover for a small period of time, "Flight 2" allows for controlled flight a few centimeters above the ground and "Flight 3" would be a complete ability to fly.
 
-Not all AAs need to be positive skills. A character may have negative Advantage (call it a Disadvantage if you feel like it), such as "Deception -1" to indicate a lack of skill in a certain area. They can also have a negative Ability, such as "Claustrophobia", meaning a character will not act in their full potential while inside small enclosed spaces, and maybe said Ability can be leveled up to reduce the disadvantages it provides. Negative AAs can be used as compensation, such as giving a character a negative AA allowing them to get extra XP or other AAs and so forth. Also, creating characters and traits with positive and negative aspects can lead to more interesting choices for players and also a more realistic RPG experience. Nobody's perfect, you know. 
+Not all AAs need to be positive skills. A character may have negative Advantage (call it a Disadvantage if you feel like it), such as "Deception -1" to indicate a lack of skill in a certain area. They can also have a negative Ability, such as "Claustrophobia", meaning a character will not act in their full potential while inside small enclosed spaces, and maybe said Ability can be leveled up to reduce the disadvantages it provides. Negative AAs can be used as compensation, such as giving a character a negative AA and then allowing them to get extra XP or other AAs and so forth. Also, creating characters and traits with positive and negative aspects can lead to more interesting choices for players and also a more realistic RPG experience. Nobody's perfect, you know. 
 
 *Note: It's generally nice if the players and the GM keep track of what each level of an Ability means - and think of them beforehand. If a player says "I WANT AIR MAGIC" specify what exactly they can do with it and what they will be able to do if they level up.*
 
-Advantages and Abilities are obtained with Experience Points (XP). Ideally, you should set a threshold cost for the strongest Advantage/Ability (AA) a character can have in the beginning of the adventure. If a player decides they want an AA that feels to overpowered, assign it a cost above said threshold and say that can only be obtained with the XP earned after leveling up. Each level of an AA may have a different cost assigned to it. XP can also be used to level up a certain AA, after the PC has already learned/adquired it. The cost for each level up should be defined by the GM.
+Advantages and Abilities are obtained with Experience Points (XP). Ideally, you should set a threshold cost for the strongest Advantage/Ability (AA) a character can have in the beginning of the adventure. If a player decides they want an AA that feels to overpowered, assign it a cost above said threshold and say that it can only be obtained with the XP earned after leveling up. Each level of an AA may have a different cost assigned to it. XP can also be used to level up a certain AA, after the PC has already learned/adquired it. The cost for each level up should be defined by the GM.
 
 If these concepts are unclear to you, check out **Chapter 5** for some examples.
 
@@ -211,7 +213,7 @@ Whenever a character levels up, you should decide on a certain number of Experie
 
 If you intend for a one session campaign, maybe leveling up isn't so interesting - in this case, you may want to have your PCs start with more Experience Points. However, for longer campaigns, you could have a low starting XP total and a slow incremental growth on each character as they level up.
 
-All characters must start with a certain amount of XP to acquire their starting AAs. 
+All characters must start with a certain amount of XP to acquire their starting AAs (however, this amount can be 0 - more on that in **Chapter 6**). 
 
 ### 7) Inventory and Equipment
 
@@ -223,9 +225,9 @@ Another encouraged solution is to assign a arbitrary "Weight" value to each item
 
 Simple's *Equipments* can have many types, but to put it simply, anything that isn't stored in a character's bag and is of easy access is considered an *Equipment*. This can be a piece of armor, a weapon or even a vial of some sort that your character keeps in their belt. During an *Action Sequence*, if a character wants to use something in their Inventory, they will need to spend an action to equip it. There may be exceptions, decided by the GM's common sense.
 
-In general, an armor-like *Equipment* will generally either add to the character's die roll in a contest while defending or negate an injury and be broken. However, whatever your character is wearing may sometimes not be an armorpiece, such as simple clothing or robes, but it may still be destroyed by an attack.
+In general, an armor-like *Equipment* will generally either add to the character's die roll in a Contest while defending or negate an injury and be broken. However, whatever your character is wearing may sometimes not be an armorpiece, such as simple clothing or robes, but it may still be destroyed by an attack.
 
-Weapon-like *Equipment* will generally add to a character's die roll in a contest while attacking. Some items like bombs or different kinds of arrows may add another test to a contest (test number one to see if the item hits the opponent and test numer two to see how many injuries it caused) and modify these rolls accordingly.
+Weapon-like *Equipment* will generally add to a character's die roll in a Contest while attacking. Some items like bombs or different kinds of arrows may add another test to a Contest (test number one to see if the item hits the opponent and test numer two to see how many injuries it caused) and modify these rolls accordingly.
 
 More details on damage and injuries can be found at **Chapter 4.3 - Action Sequences** and at the *Injury Table* on **Chapter 2**.
 
@@ -265,7 +267,7 @@ In an RPG, your character will not only interact with the world around them, but
 
 A Contest is similar to a test, except both the characters involved will roll their d20s simultaneously and the winner will not be determined by the roll table, but instead by who got the highest die roll. Contests occur when one character wishes to act directly against another, such as attacking them or trying to convince them of something. Then, both characters will roll their dice according to the action they would wish to do and the respective attribute. After that, the GM should narrate the results of the Contest and each player should update their character sheets accordingly, should anything change (such as injuries).
 
-However, not all actions between characters are settled by a Contest. They only occur when both characters are actively participating, in the sense that they are both acting towards a goal against each other. If one character is, for example, shooting at another from a distance and the target can't see the attacker, hear the shot or anything like it, there will be no Contest roll, but instead just a regular test for the shooter. If the target can perceive the shooter in someway, they will engage in a contest to try to stop the incoming attack by an action of their choice.
+However, not all actions between characters are settled by a Contest. They only occur when both characters are actively participating, in the sense that they are both acting towards a goal against each other. If one character is, for example, shooting at another from a distance and the target can't see the attacker, hear the shot or anything like it, there will be no Contest roll, but instead just a regular test for the shooter. If the target can perceive the shooter in someway, they will engage in a Contest to try to stop the incoming attack by an action of their choice.
 
 It is also worth mentioning that there are no Contests among PCs when involving dialogal confrontations. Where other RPGs would measure both of the PCs' "Charisma" attribute against each other, in Simple the players should discuss among themselves to solve the issue. This is meant to promote role-playing and interaction between them. However, it is perfectly fine for a Simple-generated system to have a "Charisma" attribute to deal with dialogues and debates between PCs and NPCs.
 
@@ -273,11 +275,11 @@ The Difficulty mechanic may also be applied in Contests.
 
 ### 3) Action Sequences and Damage
 
-Another feature in a Simple RPG is the Action Sequences. These are moments when characters are deeply involved with chaotic events happening in the story, from combats with hordes of enemies, to escapes from collapsing buildings and even high-stakes gambling moments. 
+Another feature in a Simple RPG is the use of Action Sequences. These are moments when characters are deeply involved with chaotic events happening in the story, from combats with hordes of enemies, to escapes from collapsing buildings and even high-stakes gambling moments. 
 
 During times such as these, it is important to keep track of all of the characters' actions, to ensure a good yet understandable game flow. As such, during a Simple gameplay session, each player must have a Token on them (this can be a coin, a pebble, a d3 or any small object in general) which will only be used during Action Sequences.
 
-Action Sequences are divided in Turns. During each turn, each character may choose to do one action of their choosing, from attacking an enemy to simply moving around. When a player chooses to do so, they give their Token to the GM. After all players who chose to act did so and the GM narrated everything that happened accordingly, the Turn ends and the GM gives each player their Token back, so that a new turn may start. This process repeats itself until the Action Sequence ends, be it because all enemies were defeated, they PCs escaped the collapsing building or any other reason.
+Action Sequences are divided in Turns. During each Turn, each character may choose to do one action of their choosing, from attacking an enemy to simply moving around. When a player chooses to do so, they give their Token to the GM. After all players who chose to act did so and the GM narrated everything that happened accordingly, the Turn ends and the GM gives each player their Token back, so that a new Turn may start. This process repeats itself until the Action Sequence ends, be it because all enemies were defeated, they PCs escaped the collapsing building or any other reason.
 
 If two players or more decide their character should act at the same time, they roll 1d20 each (a GM may choose to transform this roll in a test of a certain attribute) and whoever has the better result goes first. The players may discuss in which order they want to act depending on the situation - this would not be possible in the middle of a frantic combat, but maybe it would if the Action Sequence begins while the players are hidden and planning an attack.
 
@@ -285,7 +287,7 @@ If the Action Sequence contains hostile NPCs, the GM needs to account for their 
 
 It is during Action Sequences that most of the characters will suffer injuries and hurt themselves. The Simple RPG system tries to deal with damage in the most intuitive and natural flowing way possible.
 
-Whenever an attack (or a damaging action in general) occurs, the GM must compare the values rolled by each character involved in the contest and decide what injuries are applied based on the difference between the numbers. The higher the difference, the more damaging the injury (or injuries) will be. There is a reference value table on chapter 2, but, like the other tables it doesn't need to necessarily be followed.
+Whenever an attack (or a damaging action in general) occurs, the GM must compare the values rolled by each character involved in the Contest and decide what injuries are applied based on the difference between the numbers. The higher the difference, the more damaging the injury (or injuries) will be. There is a reference value table on chapter 2 but, like the other tables, it doesn't need to necessarily be followed.
 
 For those who are more accustomed with RPGs, who are currently thinking that this is madness, there is a more numerical and refined solution. After a Contest has been made and the attack has connected, you may roll a certain dice that has been previously associated with the amount and kind of injuries it is able to deal. 
 
@@ -314,7 +316,7 @@ Since you can create an RPG in any world with Simple, this is a section dedicate
 
 > Name of the author/authors of the Booster Pack.
 
-> Tests: how many times someone has played with this Booster Pack.
+> Tests: how many times a playgroup has played with this Booster Pack.
 
 > Description: basic description of how the world works - who lives there, how society organizes itself, what kinds of quests will the characters enroll and so forth.
 
@@ -341,7 +343,7 @@ So now that you understand how Simple works, you're probably wondering if there'
 
 	* Decide what attributes you would like to represent the actions the characters will take
 
-	* Decide if there are Species/Races which the character will be and the AAs that having said Race/Species and Class would imply
+	* Decide if there are Species, Races, Classes or any other Traits which the character can have and the AAs that having said Traits would imply 
 
 	* Create the AAs available for your characters (please refer to "Quickstarting AAs").
 
@@ -367,13 +369,13 @@ During this process, you will take note of several AAs that could be relevant fo
 
 By the end of character creation, you and your players will have built a list of AAs perfectly suited to your RPG world. This list can also be expanded during level ups, by adding more AAs to it. Maybe, when you finish the campaign, you'll have a list so functional that you can use it to start new campaigns in the same RPG world.
 
-*Author's note: Since I always played RPGs for fun and in relatively short campaigns, I used this method a lot. It worked pretty well for that purpose, however it could become unbalanced sometimes. Ideally, if you are more familiar with RPGs, you can use it pretty effectively - but it can also be an easy way to introduce new players to the genre and a gateway for them to try other RPGs, without being intimidated by huge skill trees and data to memorize.*
+*Author's note: Since I frequently played RPGs "just for fun" and in relatively short campaigns, I used this method a lot. It worked pretty well for that purpose, however it could become unbalanced sometimes. Ideally, if you are more familiar with RPGs, you can use it pretty effectively - but it can also be an easy way to introduce new players to the genre and a gateway for them to try other RPGs, without being intimidated by huge skill trees and data to memorize.*
 
 #### Supersonic Starting (mainly for GMs that don't have the time and don't like numbers)
 
-After reading all of that, you may be thinking "Ok, that's fast and all, but I want to make one session campaigns every time, everyone of them in a different world with different characters and abilities. I really don't care about making a balanced long-time system and I need something ready for tonight because we decided this morning we wanted to play an RPG". Well, fear not, because there is an even faster (and probably less balanced) way. Simple can fit anyone's desires for a campaign.
+After reading all of that, you may be thinking "Ok, that's fast and all, but I want to make one session campaigns every time, every one of them in a different world with different characters and abilities. I really don't care about making a balanced long-time system and I need something ready for tonight because we decided this morning we wanted to play an RPG". Well, fear not, because there is an even faster (and probably less balanced) way. Simple can fit anyone's desires for a campaign.
 
-You as a GM can simply assign AAs to your players arbitrarily. Things like "Each player gets 2 Abilities and 3 Advantages" or "Each player gets the Abilities from a class and can have either 2 Advantages with +1 or 1 Advantage with +2" (a seasoned RPG player has probably fainted right now). It's not elegant and won't build a nice AA table to look afterwards, but maybe you  just want to have fun without thinking to much about. Maybe you want to see if an adventure in a certain fantasy world would be fun enough to build a system around it (or learn a more complex system already made around it) and you're just using Simple to test it out.
+You as a GM can simply assign AAs to your players arbitrarily. Things like "Each player gets 2 Abilities and 3 Advantages" or "Each player gets the Abilities from a class and can have either 2 Advantages with +1 or 1 Advantage with +2" (a seasoned RPG player has probably fainted right now). It's not elegant and won't build a nice AA table to look afterwards, but maybe you  just want to have fun without thinking to much about it. Maybe you just want to see if an adventure in a certain fantasy world would be fun enough to build a system around it (or learn a more complex system already made around it) and you're just using Simple to test it out.
 
 That's not a problem. Just list a few AAs and let your players choose some. If the campaign ends up interesting everyone, you'll think about balancing everything and improving your gameplay choices later. Be happy, I won't judge you (although I can't promise everyone else won't too).
 
