@@ -1,7 +1,7 @@
 # Simple - A simple, intuitive and cinematic RPG metasystem
 An RPG system made to create other RPG systems. Made to be extremely simple, intuitive and easy to use, without having tons of modifiers and complicated die rolls.
 
-Based of ["JoJo's Bizarre Adventure - The RPG", by SB](https://is.gd/JoJoRPG).
+Based of ["JoJo's Bizarre Adventure - The RPG", by SB](https://is.gd/JoJoRPG) (if you can't click on this link on the PDF, download it and you should be able to do so).
 
 Number of times (sessions) tested: 1
 
