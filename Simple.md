@@ -2,7 +2,7 @@
 
 __by lordanb__
 
-##Author's Note (Please read this)
+## Author's Note (Please read this)
 
 Hey, thanks for taking a look into my weird, weird RPG "metasystem", as I proudly decided to call it. I just want to talk about Simple a little, give some insight on why I made it this way and say why you should or shouldn't use it for you campaigns.
 
