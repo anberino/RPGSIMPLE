@@ -86,7 +86,7 @@ __Attribute Die Rolls__
 __Injury Table__
 *(You may choose to alter these values if you feel like they are unbalanced or not suited for your playing style.)*
 
-| Attcker roll - Defender roll | Injuries caused |
+| (Attcker roll - Defender roll) | Injuries caused |
 | ---------------------------- | --------------- |
 | <= 0 | No injuries caused |
 | 1 ~ 8 | Light injuries are caused |
