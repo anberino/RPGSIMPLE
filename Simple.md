@@ -343,7 +343,7 @@ So now that you understand how Simple works, you're probably wondering if there'
 
 	* Decide what attributes you would like to represent the actions the characters will take
 
-	* Decide if there are Species, Races, Classes or any other Traits which the character can have and the AAs that having said Traits would imply 
+	* Decide if there are Species, Races, Classes or any other Traits which the characters can have and the AAs that having said Traits would imply 
 
 	* Create the AAs available for your characters (please refer to "Quickstarting AAs").
 
