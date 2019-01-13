@@ -2,13 +2,34 @@
 
 __by lordanb__
 
+##Author's Note (Please read this)
+
+Hey, thanks for taking a look into my weird, weird RPG "metasystem", as I proudly decided to call it. I just want to talk about Simple a little, give some insight on why I made it this way and say why you should or shouldn't use it for you campaigns.
+
+The main reason I created Simple is because my playgroup needed something like it. We started playing D&D for a short time and then quickly realized that we wanted to create another campaign with some looser rules and in a completely different, Mad Max based world. After a few campaigns of that, using a made-up system heavily based on D&D, we decided to play Call of Cthulhu, followed by The One Ring Roleplaying Game, followed by another made-up system for a Hellboy-based adventure and from there things just got crazier. 
+
+With every new idea for a new world and a new campaign, both me and one of my friends, who were alternating between GMing, had to create a new system that would accomodate this new world in a functional way. We would search online for resources that fit the world our next campaign would take place in, take some stuff from our previous makeshift systems and try to come up with something fresh and functional. This was a little bit tiring sometimes and often lead to unbalanced and/or unfair situations. It even got to the point that I spent so much time creating a new system for a certain campaign that by the time I finished it, I was just so tired I couldn't even come up with a good story for that same world I had created. That system was also a 40 page mess that had some glaring mistakes in it, but it was too long for a single person to re-read it all and fix every single unbalanced or disfunctional detail after testing it, considering it was made for a single, specific campaign.
+
+Some time later, after talking with some friends about a JoJo's RPG, I stumbled upon SB's system and I was astonished by how short and comprehensive it was. Everything just made sense and it felt pretty dynamic to play with. So, I decided I would adapt it for our next campaign towards a medieval setting and see how it could work out. At some point during that adaptation, I realized it would be a lot more simple if I could just have a system that is easy to adapt, instead of multiple easy to play systems that took a lot of time to create. From that, I decided to create a new, simple and adaptable system, that would serve as a framework for all my future campaigns with my playgroup.
+
+As such, Simple is at the same time completely generic (which is good) and extremely specific (which is not so good). It's completely generic because it is effectively, only a set of rules that you can shove anywhere. You can literally choose any fictional world for your RPG and use the Simple system and it will fit, one way or the other. However, it's extremely specific since it was built by *me* to cater *my* RPG needs. I just wanted something that I could choose a world, make some small decisions that don't require any kind of deep thought or balancing, create characters and start playing. If I suddenly felt like creating a new enemy type or special weapon during a campaign, I wouldn't have to check other guidebooks or worry if it was unbalanced, there would be very few numbers and calculations involved and I could make it happen on the spot. Making the system short also meant anyone from my playgroup could read it and GM every now and then, so if someone said "Oh, I really like Avatar: The Last Airbender's world" I could just awnser "Ok, you know it better, GM it" - and then if they had a story in mind, in one afternoon they could have everything they needed ready for the first session.
+
+Considering all that I explained here, I would say the following:
+
+Simple **is recommended** to relatively new RPG players and for players that want a more easygoing gameplay. Since it aims for a more cinematic and light-hearted experience, it is, in general, easy to understand and play. However, it's interesting if the players and GM already have some experience with RPGs, since even just "filling the blanks" Simple leaves for you to create your world will require a little bit of thought. It works fine in short or one-session campaigns, but can also lead to a longer one if the playgroup so desires - Simple lays the groundwork for both, if you choose to put in the effort.
+
+Simple **isn't recommended** to very experienced RPG players, unless they are simply trying something new. Simple doesn't have a lot of complex mechanics like other RPGs and doesn't reward players that create characters thinking about best possible builds and exploits. It's not for people that want to look at a gigantic skill tree or list and spend hours pondering what would make them powerful in the long term. You can create those from scratch with Simple, but I'm pretty sure there are better and more balanced RPGs out there if that's your thing.
+
+However, "recommended" is the keyword here - I can't actually stop you from using Simple. It's just that, if you come to me saying that your level 90 character is completely broken and I should rework something due to that, I won't actually care too much about it, because it's not the purpose of the system. Although, if you say that you couldn't find a way to adapt something into Simple or make a suggestion about something that could make the system more adaptable without complicating it too much, I would be on it immediately.
+
+If you have a lot of fun using this system, I would highly recommend following the link on Chapter 1 and donate to the person who made the JoJo's RPG, since I based a lot of Simple on their work and it's what inspired me to create this in the first place. Hope you have fun with Simple!
+
+
 ## Chapter 1 - Introduction
 
 Simple is an RPG system made for those who want a role-playing game experience without having to deal with complicated stats and dice rolling filled with dozens of modifiers, aiming to deliver a cinematic feel to an RPG campaign while keeping a good narrative flow and balanced gameplay.
 
 Simple is heavily based of ["JoJo's Bizarre Adventure - The RPG", by SB](https://is.gd/JoJoRPG). The credit for creating a balanced and functional RPG system goes to SB, while Simple tries only to adapt it so that it can be used in worlds and scenarios outside of those from JoJo's Bizarre Adventure. If for some weird yet maybe understandable reason you decided to use Simple for your JoJo's campaign, please use SB's system and its expansions instead, as it is much more complete.
-
-<!-- algo pra doações se eu publicar isso um dia ?-->
 
 For those who aren't familiar with role-playing games (or RPGs, for short), an RPG is a tabletop game in which you (the player) play the role of a character (also known as Player Character, or PC) that lives an adventure in a fantasy world. This adventure, most commonly known as a "Campaign", is narrated by the Game Master (or GM), which is a special player who's in charge of creating the story and controlling all of the non-player elements of the world, be them characters (NPCs) and whatever happens to the PCs. The game functions in 4 very easy steps:
 
@@ -26,13 +47,14 @@ Seems simple, right? Because it is! That's mainly because an RPG game session fl
 
 However, there are always some rules to how you create your character and how to roll dice to determine your success in actions. That is what the RPG system stands for: it's the guidelines and base rules for a role-playing game, so that everyone can enjoy themselves and unleash their creativity while standing on the same ground of "how they're playing the game".
 
-The Simple system is made with a general approach, meaning it can be used for an RPG campaign in whatever setting the players may choose, from traditional medieval battlegrounds to cyberpunk and dystopic worlds. This document will describe the core system, which the players and Game Master should adapt to their world and scenario of choice. At the end of the document, there will be some examples of the usage of Simple for different campaigns.
-
-<!-- decidir exemplos -->
+The Simple system is made with a general approach, meaning it can be used for an RPG campaign in whatever setting the players may choose, from traditional medieval battlegrounds to cyberpunk and dystopic worlds. This document will describe the core system, which the players and Game Master should adapt to their world and scenario of choice. There will be a chapter explaining how the examples that are in other, separate files, work.
 
 In short, Simple is a recipe for your simple, intuitive and cinematic RPG - a toolkit to building your own simple RPG system. 
 
+*Note: To play Simple, you just need pencils, paper, your character sheet and at least 3 20-sided die (aka d20). Having more d20s makes things a lot more practical though.*
+
 *Note: You may freely choose to only use parts of the Simple system, if you think your playgroup is too casual or too advanced for it. The creation of house rules to increase the enjoyment of your game session is encouraged.*
+
 
 ## Chapter 2 - Rolling tables and important values
 
@@ -70,6 +92,7 @@ __Injury Table__
 | >= 19 | Major injuries are caused |
 
 *Note: A GM may choose to subvert these values if they the situation calls for it. A very fragile enemy may need a lesser difference between rolls to be taken down and, as such, the 1 ~ 8 interval may cause a Heavy Injury on them and so forth.*
+
 
 ## Chapter 3 - Simply creating
 
@@ -351,6 +374,7 @@ After reading all of that, you may be thinking "Ok, that's fast and all, but I w
 You as a GM can simply assign AAs to your players arbitrarily. Things like "Each player gets 2 Abilities and 3 Advantages" or "Each player gets the Abilities from a class and can have either 2 Advantages with +1 or 1 Advantage with +2" (a seasoned RPG player has probably fainted right now). It's not elegant and won't build a nice AA table to look afterwards, but maybe you  just want to have fun without thinking to much about. Maybe you want to see if an adventure in a certain fantasy world would be fun enough to build a system around it (or learn a more complex system already made around it) and you're just using Simple to test it out.
 
 That's not a problem. Just list a few AAs and let your players choose some. If the campaign ends up interesting everyone, you'll think about balancing everything and improving your gameplay choices later. Be happy, I won't judge you (although I can't promise everyone else won't too).
+
 
 ## Chapter 7 - Special Thanks
 
