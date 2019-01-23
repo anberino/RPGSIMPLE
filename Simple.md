@@ -24,7 +24,7 @@ Simple **isn't recommended** to very experienced RPG players, unless they are si
 
 However, "recommended" is the keyword here - I can't actually stop you from using Simple. It's just that, if you come to me saying that your level 90 character is completely broken and I should rework something due to that, I won't actually care too much about it, because it's not the purpose of the system. Although, if you say that you couldn't find a way to adapt something into Simple or make a suggestion about something that could make the system more adaptable without complicating it too much, I would be on it immediately.
 
-If you have a lot of fun using this system, I would highly recommend following the link on Chapter 1 and donating to the person who made the JoJo's RPG, since I based a lot of Simple on their work and it's what inspired me to create this in the first place. 
+If you have a lot of fun using this system, I would highly recommend following the link on Chapter 1 and donating to Esby, the person who made the JoJo's RPG, since I based a lot of Simple on their work and it's what inspired me to create this in the first place. 
 
 Hope you have fun with Simple!
 
@@ -57,14 +57,18 @@ In short, Simple is a recipe for your simple, intuitive and cinematic RPG - a to
 
 *Note: To play Simple, you just need pencils, paper, your character sheet and at least 3 20-sided die (aka d20). Having more d20s makes things a lot more practical though.*
 
-*Note: You may freely choose to only use parts of the Simple system, if you think your playgroup is too casual or too advanced for it. The creation of house rules to increase the enjoyment of your game session is encouraged.*
+*Customization note: You may freely choose to only use parts of the Simple system, if you think your playgroup is too casual or too advanced for it. The creation of house rules to increase the enjoyment of your game session is encouraged.*
+
+**About "Customization Notes"**
+
+Every now and then, a "Customization Note" will appear. While most "Notes" are simple observations that I felt deserved to be italicized, "Customization Notes" are details about altering the Simple core system. The way Simple is designed is that you need to insert your world's feautures in it, using the core system as a framework (see the Booster Packs for a better understanding). These "Customization Notes" are modifications directly into the core system to make it more complex or similar to another RPG - what that means is "more to your liking", in general. If you just want to use Simple as I made it, ignore them.
 
 
 ## Chapter 2 - Rolling tables and important values
 
 Here in this chapter you will be presented with the tables and relevant values for *Attributes* in Simple. If you are new to RPGs and this doesn't sound familiar at all, relax. Simply take a look over the tables and move on to the next chapter, where you'll be introduced to the game mechanics and these will start to make more sense.
 
-In your first game sessions, this chapter will be used constantly for value and roll referencing, but it should quickly become automatic for the players and GMs to know this data. 
+In your first game sessions, this chapter will likely be used constantly for value and roll referencing, but it should quickly become automatic for the players and GMs to know this data. 
 
 
 __Standard Roll Results__
@@ -106,6 +110,8 @@ Simple is made as a system that can adapt and apply itself to any kind of RPG wo
 
 When creating a character in Simple, the first thing you'll want to do is to establish their basic characteristics. Things such as a character's "name", "age" and "gender", among other characteristics. All of these traits should be noted on the top of your character sheet.
 
+<!--- MUDAR ISSO --->
+
 Two traits that should receive special attention are "Species" (or "Race") and "Class". Most RPGs have a race and/or class system to distinguish their characters from one another, but since Simple's goal is to be the base for any creative world or RPG system, the addition of these two characteristics is not mandatory. A GM may want to create a world where there are only humans and in this case there wouldn't be any sense to having a "Species" slot for you to fill in - and also no sense in having a pre-determined list of buffs and debuffs for selecting the human "Species". 
 
 As such, Simple handles "Species" and "Class" by these simply being codewords for a certain set of *Abilities* and *Advantages* (*AA* for short). That means that if in your RPG world there are only humans, there is no need to add a "Species" slot for your players to fill in their character sheets. In the case that there are different species to chose from, each one refers to a set of *AA* that your character will start the game with - and maybe also a set of *AA* they may be able to learn later through leveling up. The same is applied to the "Classes". There is a special space in the character sheet assigned as "Traits" to indicate such aspects of your character. If they don't apply, simply leave them blank.
@@ -131,7 +137,7 @@ As stated before, a PC's *Background* may heavily influence their appearance, pe
 ### 3) Attributes
 
 One of the core gameplay features in Simple are you character's *Attributes*. These represent your character's ability to, well, act! Each attribute is generally related to a certain set of skills and receives a rank from A to E to measure your character's proficiency in them. As a simple example, a character with an A in the "Strength" attribute is more likely to be able to lift a large object than one with an E in it.
-However, since Simple is made so that you can create your own RPG system, there are no pre-defined *Attributes*. When you're creating your Simple system, you may choose 5 or more *Attributes* that will be used to determine the characters' skills. Depending on how much *Attributes* there are, each player will receive a certain number of points that will be used to "buy" ranks for each attribute. The point cost for each one is as follows:
+However, since Simple is made so that you can create your own RPG system, there are no pre-defined *Attributes*. When you're creating your Simple system, the GM should choose 5 or more *Attributes* that will be used to determine the characters' skills. Depending on how much *Attributes* there are, each player will receive a certain number of points that will be used to "buy" ranks for each attribute. The point cost for each one is as follows:
 
 __E__: -1 (Having an E attribute means you get another point to spend)
 
@@ -143,9 +149,7 @@ __B__:  2
 
 __A__:  3
 
-For the minimum number of 5 attributes, the number of recommended points is 6. You may choose to change this according to your idea of PCs power level. 
-
-Logically, if you should choose to have more than 5 attributes, you should also increase the total amount of available points accordingly. Here's the recommended values table:
+For the minimum number of 5 attributes, the number of recommended points is 6. Logically, if you should choose to have more than 5 attributes, you should also increase the total amount of available points accordingly. Here's the recommended values table:
 
 <!-- Pensar em algum jeito de testar isso - aumentar isso? -->
 <!-- Quero diminuir os pontos, A parece mto forte pra ter dois e um C -->
@@ -159,7 +163,9 @@ Logically, if you should choose to have more than 5 attributes, you should also 
 |  9    |      10      |
 |  10   |      11      |
 
-In general, you want to have N+1 points for N attributes for a balanced experience. 
+In general, you want to have N+1 points for N attributes for a balanced experience.
+
+*Customization note: Although I tested and played with N+1 points for N attributes, you may choose to change this value according to your needs. In general, the more points you give to you players, the easier the game will be for them.* 
 
 If you are unfamiliar with RPGs and *Attributes*, there will be an example section showcasing different sets of *Attributes*, that can be used as templates for certain RPG worlds in Chapter 5. It's generally recommended to have a durability-related attribute for your characters, such as Endurance, Constitution, Health or other similar ones. This makes it easier to roll tests for Injuries and Conditions (see **Chapter 3.4 - Injuries and Conditions** for more information).
 
@@ -203,6 +209,8 @@ Not all AAs need to be positive skills. A character may have negative Advantage 
 
 Advantages and Abilities are obtained with Experience Points (XP). Ideally, you should set a threshold cost for the strongest Advantage/Ability (AA) a character can have in the beginning of the adventure. If a player decides they want an AA that feels to overpowered, assign it a cost above said threshold and say that it can only be obtained with the XP earned after leveling up. Each level of an AA may have a different cost assigned to it. XP can also be used to level up a certain AA, after the PC has already learned/adquired it. The cost for each level up should be defined by the GM.
 
+*Customization note: there will be a whole section about different ways to create and assign AAs to players in the end of chapter 6.*
+
 If these concepts are unclear to you, check out **Chapter 5** for some examples.
 
 ### 6) Growth and Experience
@@ -213,17 +221,19 @@ Whenever a character levels up, you should decide on a certain number of Experie
 
 If you intend for a one session campaign, maybe leveling up isn't so interesting - in this case, you may want to have your PCs start with more Experience Points. However, for longer campaigns, you could have a low starting XP total and a slow incremental growth on each character as they level up.
 
-All characters must start with a certain amount of XP to acquire their starting AAs (however, this amount can be 0 - more on that in **Chapter 6**). 
+All characters must start with a certain amount of XP to acquire their starting AAs (however, this amount can be 0 - more on that in **Chapter 6**).
+
+*Customization note: a seasoned GM or group of RPG players may decide that this is just preposterous and that characters should gain experience to level up. If that is the case, you are free to assign value of experience to defeating enemies, finishing quests and etc, and then only level up a character once they reached a certain threshold of experience. If that makes your game better, feel free to do so, but it's not part of the core system.* 
 
 ### 7) Inventory and Equipment
 
-Since Simple's purpose is to create easy-to-use RPG systems, there is no fixed rule on how to determine inventory space. The easiest way is to simply leave it to the GMs common sense, deciding on if a PC can carry another item or not by taking a quick look at their current inventory and abilities. It is encouraged that when creating a character, the GM and player should decide on how said character will carry their equipment, by having a rucksack, a bag, deep pockets or something else - this way, each PC will have a different inventory space.
+Since Simple's purpose is to create easy-to-use RPG systems, there is no fixed rule on how to determine inventory space. The way it works is to simply leave it to the GMs common sense, deciding on if a PC can carry another item or not by taking a quick look at their current inventory and abilities. It is encouraged that when creating a character, the GM and player should decide on how said character will carry their equipment, by having a rucksack, a bag, deep pockets or something else - this way, each PC will have a different but easily manageable inventory space.
 
-Another encouraged solution is to assign a arbitrary "Weight" value to each item and make so each character can carry a certain amount of "Weight" according to their capabilities - however, be aware that you as a GM will need to, everytime you create an item or weapon for your PCs to find, you will need to assign it a "Weight" value that should be noted and kept consistent. 
+*Customization note: another possible solution is to assign a arbitrary "Weight" value to each item and make so each character can carry a certain amount of "Weight" according to their capabilities - however, be aware that you as a GM will need to, everytime you create an item or weapon for your PCs to find, you will need to assign it a "Weight" value that should be noted and kept consistent.* 
 
 *Author's Note: I don't really like the "Weights" thing, requires to much effort and balancing - and it's not interpetative. I'd rather have a PC realize their bag is full and say something as "Can I wrap this new sword around my leg then?" and that action to have future implications, than simply needing to drop a random item of the same weight.*
 
-Simple's *Equipments* can have many types, but to put it simply, anything that isn't stored in a character's bag and is of easy access is considered an *Equipment*. This can be a piece of armor, a weapon or even a vial of some sort that your character keeps in their belt. During an *Action Sequence*, if a character wants to use something in their Inventory, they will need to spend an action to equip it. There may be exceptions, decided by the GM's common sense.
+Simple's *Equipments* can have many types, but to put it simply, anything that isn't stored in a character's bag and is of easy access is considered an *Equipment*. This can be a piece of armor, a weapon or even a vial of some sort that your character keeps in their belt. During an *Action Sequence*, if a character wants to use something in their Inventory, they will need to spend an action to equip it. There may be exceptions, decided by the GM's common sense. An *Equipment*, however, can be used on the spot - that means a character will not need to spend an action to pick up and equip it, they will just do their action normally using said item.
 
 In general, an armor-like *Equipment* will generally either add to the character's die roll in a Contest while defending or negate an injury and be broken. However, whatever your character is wearing may sometimes not be an armorpiece, such as simple clothing or robes, but it may still be destroyed by an attack.
 
@@ -269,6 +279,8 @@ A Contest is similar to a test, except both the characters involved will roll th
 
 However, not all actions between characters are settled by a Contest. They only occur when both characters are actively participating, in the sense that they are both acting towards a goal against each other. If one character is, for example, shooting at another from a distance and the target can't see the attacker, hear the shot or anything like it, there will be no Contest roll, but instead just a regular test for the shooter. If the target can perceive the shooter in someway, they will engage in a Contest to try to stop the incoming attack by an action of their choice.
 
+<!--- Ah, mudar isso aqui em cima --->
+
 It is also worth mentioning that there are no Contests among PCs when involving dialogal confrontations. Where other RPGs would measure both of the PCs' "Charisma" attribute against each other, in Simple the players should discuss among themselves to solve the issue. This is meant to promote role-playing and interaction between them. However, it is perfectly fine for a Simple-generated system to have a "Charisma" attribute to deal with dialogues and debates between PCs and NPCs.
 
 The Difficulty mechanic may also be applied in Contests. 
@@ -289,7 +301,7 @@ It is during Action Sequences that most of the characters will suffer injuries a
 
 Whenever an attack (or a damaging action in general) occurs, the GM must compare the values rolled by each character involved in the Contest and decide what injuries are applied based on the difference between the numbers. The higher the difference, the more damaging the injury (or injuries) will be. There is a reference value table on chapter 2 but, like the other tables, it doesn't need to necessarily be followed.
 
-For those who are more accustomed with RPGs, who are currently thinking that this is madness, there is a more numerical and refined solution. After a Contest has been made and the attack has connected, you may roll a certain dice that has been previously associated with the amount and kind of injuries it is able to deal. 
+*Customization note: for those more accustomed with RPGs, who are currently thinking that this is madness, there is a more numerical and refined solution. After a Contest has been made and the attack has connected, you may roll a certain dice that has been previously associated with the amount and kind of injuries it is able to deal.* 
 
 ### 4) World Features
 
@@ -333,6 +345,8 @@ Since you can create an RPG in any world with Simple, this is a section dedicate
 I will be adding new Booster Packs from time to time, based on worlds I felt like creating. If you used Simple and created your own Booster Packs, feel free to send them to me so that they can be added to the examples - and this way other people will be able to use them and provide feedback too. 
 
 An ideal endgoal would be to have a huge collection of different Simple-based systems so that everyone that wants to use Simple can quickstart an adventure in their world of choice. Even if there is already a Booster Pack for the world or theme you chose, you can also create your own anyways and submit it if you feel like it. I'm always accepting feedback, suggestions and add-ons - and will always credit those who help me in any way.
+
+*Author's Note: the concept of booster packs works against and towards Simple's goal. When I think of Simple as a pick-and-play experience, you don't really need the booster packs. You should be able to just create what you need to GM a session with Simple in an afternoon, without needing to write everything down and make it formal in the booster pack format. However, creating a booster pack can take some more time, since you'll need to write 3 to 4 pages, give or take. But in this case, if somebody else decides to play in the same world you created the booster pack, the pick-and-play experience for them will be even better.* 
 
 
 ## Chapter 6 - What to do?
