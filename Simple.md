@@ -346,7 +346,7 @@ Since you can create an RPG in any world with Simple, this is a section dedicate
 
 > GM section: any tips for the GM to be able to run a campaign in this world, reading recommendations, things GMs should tell their players and any additional mechanics the world may have in relation to the system (changes in Action Sequences, Vehicles and so forth).
 
-I will be adding new Booster Packs from time to time, based on worlds I felt like creating. If you used Simple and created your own Booster Packs, feel free to send them to me so that they can be added to the examples - and this way other people will be able to use them and provide feedback too. 
+I will be adding new Booster Packs from time to time, based on worlds I felt like creating (which will often be untested). If you used Simple and created your own Booster Packs, feel free to send them to me so that they can be added to the examples - and this way other people will be able to use them and provide feedback too. 
 
 An ideal endgoal would be to have a huge collection of different Simple-based systems so that everyone that wants to use Simple can quickstart an adventure in their world of choice. Even if there is already a Booster Pack for the world or theme you chose, you can also create your own anyways and submit it if you feel like it. I'm always accepting feedback, suggestions and add-ons - and will always credit those who help me in any way.
 
