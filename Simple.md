@@ -57,6 +57,8 @@ In short, Simple is a recipe for your simple, intuitive and cinematic RPG - a to
 
 *Note: To play Simple, you just need pencils, paper, your character sheet and at least 3 20-sided die (aka d20). Having more d20s makes things a lot more practical though.*
 
+*Note: Any time there is a situation which isn't easily solvable or understandable by the rules, the GM should have the final word about what happens then. Players and the GM are free to debate how to approach the situation.*
+
 *Customization note: You may freely choose to only use parts of the Simple system, if you think your playgroup is too casual or too advanced for it. The creation of house rules to increase the enjoyment of your game session is encouraged.*
 
 **About "Customization Notes"**
@@ -215,6 +217,8 @@ Advantages and Abilities are obtained with Experience Points (XP). Ideally, you 
 
 *Customization note: there will be a whole section about different ways to create and assign AAs to players in the end of chapter 6.*
 
+*Customization note: AAs are meant to encompass all kinds of different abilities a character can have. However, if you feel like one of those two have little importance for the world you are designing, you may choose to eliminate one of them, such as having only Abilities or only Advantages. You can also make one of them contain the other, etc.*
+
 If these concepts are unclear to you, check out **Chapter 5** for some examples.
 
 ### 6) Growth and Experience
@@ -281,10 +285,6 @@ In an RPG, your character will not only interact with the world around them, but
 
 A Contest is similar to a test, except both the characters involved will roll their d20s simultaneously and the winner will not be determined by the roll table, but instead by who got the highest die roll. Contests occur when one character wishes to act directly against another, such as attacking them or trying to convince them of something. Then, both characters will roll their dice according to the action they would wish to do and the respective attribute. After that, the GM should narrate the results of the Contest and each player should update their character sheets accordingly, should anything change (such as injuries).
 
-However, not all actions between characters are settled by a Contest. They only occur when both characters are actively participating, in the sense that they are both acting towards a goal against each other. If one character is, for example, shooting at another from a distance and the target can't see the attacker, hear the shot or anything like it, there will be no Contest roll, but instead just a regular test for the shooter. If the target can perceive the shooter in someway, they will engage in a Contest to try to stop the incoming attack by an action of their choice.
-
-<!--- Ah, mudar isso aqui em cima --->
-
 It is also worth mentioning that there are no Contests among PCs when involving dialogal confrontations. Where other RPGs would measure both of the PCs' "Charisma" attribute against each other, in Simple the players should discuss among themselves to solve the issue. This is meant to promote role-playing and interaction between them. However, it is perfectly fine for a Simple-generated system to have a "Charisma" attribute to deal with dialogues and debates between PCs and NPCs.
 
 The Difficulty mechanic may also be applied in Contests. 
@@ -297,7 +297,7 @@ During times such as these, it is important to keep track of all of the characte
 
 Action Sequences are divided in Turns. During each Turn, each character may choose to do one action of their choosing, from attacking an enemy to simply moving around. When a player chooses to do so, they give their Token to the GM. After all players who chose to act did so and the GM narrated everything that happened accordingly, the Turn ends and the GM gives each player their Token back, so that a new Turn may start. This process repeats itself until the Action Sequence ends, be it because all enemies were defeated, they PCs escaped the collapsing building or any other reason.
 
-If two players or more decide their character should act at the same time, they roll 1d20 each (a GM may choose to transform this roll in a test of a certain attribute) and whoever has the better result goes first. The players may discuss in which order they want to act depending on the situation - this would not be possible in the middle of a frantic combat, but maybe it would if the Action Sequence begins while the players are hidden and planning an attack.
+If two players or more decide their character should act at the same time, they roll 1d20 each (a GM may choose to transform this roll in a test of a certain attribute) and whoever has the better result goes first. The players may discuss in which order they want to act depending on the situation - this would not be possible in the middle of a frantic combat, but maybe it would if the Action Sequence begins while the players are hidden and planning an attack. After the Action Sequence has already started, it is highly encouraged to limit the players' comunication with eachother, creating more conflicting roleplaying situations, such as both players trying to act simultaneously, players having to remedy something they did the previous turn due to the rush or players having to spend an action for their character to communicate.
 
 If the Action Sequence contains hostile NPCs, the GM needs to account for their actions as well. A pratical way to do so is to make it so that after every PC action there is an NPC action, but if the GM wishes to create a more complex, attribute-based way to determine when NPCs act, they are free to do so. 
 
@@ -370,6 +370,8 @@ So now that you understand how Simple works, you're probably wondering if there'
 	* Start creating your story and the PCs with your players
 
 *Note: It is heavily recommended that the GM and the players should be together for character creation - or maybe that each player should create their character while talking to the GM individually. Simple is highly customizable and a player cannot create their character just by reading this book. You and your friends are basically creating an RPG system using Simple as framework and therefore the GM needs to comunicate how the characters will be created to avoid misunderstandings.*
+
+*Author's note: If you don't know what a Session 0 is, look it up and do it before you start playing. Please.*
 
 Now you're ready to begin your campaign!
 
